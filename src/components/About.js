@@ -39,7 +39,7 @@ function About() {
           <img src={photo} id="my-pic" alt="Papy's pic"/>
         
           {/* my bio */}
-          <p>My name is Mr.Papy Lontomba and I am current student at George Wahington University bootcamp.Also, I am senior system Enginneer from George Mason University . I have an associate degree in Electrical Engineer from Northern Virginia community college.</p>
+          <p>My name is Mr.Papy Lontomba and I am a full stack web developer from  George Wahington University bootcamp.Also, I am senior system Enginneer from George Mason University . I have an associate degree in Electrical Engineer from Northern Virginia community college.</p>
 
           <p>
           I am interested in learning about new opportunities and can be reached through this portfolio, by email: papylotomba@yahoo.fr, through GitHub Cheers!</p>
