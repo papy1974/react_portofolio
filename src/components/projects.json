@@ -1,0 +1,66 @@
+
+
+[
+    
+    
+    {
+        "name": "Eat-da-Burger",
+        "image": "./images/icons/burger.png",
+        "alt": " Eat-da-Burger screenshot",
+        "githubLink": "https://github.com/papy1974/papy--burger",
+        "projectLink": "https://sleepy-plains-11022.herokuapp.com/",
+        "technologies": ["Express, JavaScript, NPM packages, HTML, CSS, Git"],
+        "description": "Eat-Da-Burger is a restaurant app that lets users input the names of burgers they'd like to eat"
+    },
+    
+    {
+        "name": "Note Taker",
+        "image": "./images/icons/note.png",
+        "alt": "Note Taker screenshot",
+        "githubLink": "https://github.com/papy1974/lontomba-notetaker",
+        "projectLink": "https://papy-lontomba.herokuapp.com/notes",
+        "technologies": ["Express", "jQuery", "Node.js", "npm fs (file system)", "Bootstrap", "HTML5 & CSS3", "Fontawesome"],
+        "description": "Organize notes for the busy executive."
+    },
+    
+    {
+        "name": "Project1",
+        "image": "./images/icons/project1.png",
+        "alt": "Project1 app screenshot",
+        "githubLink": "https://github.com/papy1974/Project_1GWU",
+        "projectLink": "https://jepps2020.github.io/Project_1GWU/",
+        "technologies": ["HTML, Javascript, Jquery,Semantic ui, API,CSS,Git"],
+        "description": "The website retrieve information about birds so that we can identify birds that I encounter"
+    },
+
+    {
+        "name": "Project2",
+        "image": "./images/icons/project2.png",
+        "alt": "Project2 app screenshot",
+        "githubLink": "https://github.com/papy1974/project-2",
+        "projectLink": "https://fathomless-basin-48742.herokuapp.com/",
+        "technologies": ["MySQL, Node, Express, Handlebars, Sequelize"],
+        "description": "users can create accounts and embark on their language learning journey. "
+    },
+
+    {
+        "name": "Code Quiz",
+        "image": "./images/icons/quiz.png",
+        "alt": "Code Quiz app screenshot",
+        "githubLink": "https://github.com/papy1974/papy_code_quiz",
+        "projectLink": "https://papy1974.github.io/papy_code_quiz/",
+        "technologies": ["HTML, CSS, JavaScript,jquery,Git"],
+        "description": "create a quiz with multiple choice questions and using JavaScript to make HTML dynamic."
+    },
+    
+    {
+        "name": "Weather",
+        "image": "./images/icons/weather-dashboard.png",
+        "alt": " Weather screenshot",
+        "githubLink": "https://github.com/papy1974/h6_weather-",
+        "projectLink": "https://papy1974.github.io/h6_weather-/",
+        "technologies": ["HTML, CSS, JavaScript, jQuery, Bootstrap, API, Ajax"],
+        "description": "The purpose of this project is to allow the user to see the weather outlook for multiple cities"
+    }
+
+]
