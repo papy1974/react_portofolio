@@ -1,0 +1,18 @@
+footer {
+    /* color: #cccccc; */
+    /* text-align: center; */
+    /* background: #666666; */
+    border-top: 3px solid #2220b4;
+    border-bottom: 3px solid #2220b4;
+    /* height: 4px; */
+    /* position: fixed; */
+    /* these lines give it a sticky footer */
+    /* bottom: 0; */
+    /* these lines give it a sticky footer */
+    /* left: 0; */
+    /* these lines give it a sticky footer */
+  }
+
+.bg-blue {
+    background-color: rgb(23, 155, 219);
+  }
