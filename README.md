@@ -2,6 +2,11 @@
 
 The project is named react portofolio
 
+
+![folio](https://user-images.githubusercontent.com/58053159/85938343-89a69b00-b8da-11ea-8897-3622280a3642.png)
+
+
+
  # Description
 
 A portfolio for Papy Lontomba , using React.
