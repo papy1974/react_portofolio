@@ -1,0 +1,108 @@
+body {
+  /* default fonts, line spacing for whole component. */
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 27px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 18px;
+}
+
+h3 {
+  /* default text attributes for sub-headers */
+  /* default spacing after each header and paragraph */
+  margin-bottom: 20px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+
+h3 {
+  /* text for project links, goes over thumbnails */
+  width: 100%;
+  font-size: 22px;
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  line-height: 22px;
+}
+
+
+
+/* formatting for picture & text to click on for each project */
+
+.work {
+  /* to get text on top of picture */
+  position: relative;
+  float: left;
+  width: 254px;
+  margin: 20px 0 25px;
+  overflow: hidden;
+  border: 1px solid rgb(23, 155, 219);
+  border-radius: 20%;
+}
+
+/* gradually change size when hovering */
+.project {
+  transition: transform .2s;
+  margin-bottom: 20px;
+  color: #2220b4;
+}
+
+.paragraph {
+  height: 80px;
+  color: #2220b4;
+}
+
+hr {
+  border: 1px solid #2220b4 !important;
+}
+
+/* styles for project screenshots */
+.work img {
+  width: 100%;
+}
+
+.img {
+   padding: 70px 20px 20px;
+}
+
+.work h3 {
+  /* clickable text for the project */
+  position: absolute;
+  top: 0;
+  padding: 15px;
+  margin-top: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  height: 90px;
+}
+
+.project {
+  text-align: center;
+  display: block;
+}
+
+/* Make project card 10% bigger when hovered */
+.project:hover {
+  transform: scale(1.1);
+}
+
+.icons {
+  /* group all the projects together for wrapping purposes */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* clear floats */
+
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}

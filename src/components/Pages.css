@@ -1,0 +1,30 @@
+#my-pic {
+    /* to get the text to wrap around the picture */
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+    list-style-position: inside;
+}
+
+/* same background image as page */
+.bg-img {
+    background-image: url("./images/aqua_marble_seamless.png");
+}
+
+.bg-blue {
+    background-color: rgb(23, 155, 219);
+}
+
+.blue-border-top {
+    border-top: 3px solid #2220b4;
+}
+
+label {
+    width: 95px;
+}
+
+input, textarea {
+    width: 250px !important;
+}
